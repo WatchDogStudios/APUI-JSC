@@ -1,12 +1,11 @@
 # APUI-JSC
 Fork of EA's WebKit JavaScriptCore. this repo includes our changes related to ApertureUI. this is NOT designed to be built with the content that is in this repository! 
 
-NOTE:  EA  EABase
-    EASTL
-    WTF
+NOTE: EA's Fork of JSC relies on:  EABase, EASTL, WTF. you can find it in a download of EAWebKit.
+
 We will contain Precompiled versions of JSC in the releases tab, if it is useful to anyone!
 
-See "LICENSEJAVASCRIPTCORE.TXT" for the License. JavaScriptCore is STILL Governed by the LGPL-2 License.
+See "LICENSEJAVASCRIPTCORE.TXT" for the License. ***JavaScriptCore is STILL Governed by the LGPL-2 License.***
 
 # How can i build this?
 
